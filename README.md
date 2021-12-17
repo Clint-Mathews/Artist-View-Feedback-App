@@ -25,9 +25,8 @@ npm run dev
 
 ## Run tests
 
-```sh
-No tests created.)
-```
+No tests created.
+
 
 ## Author
 
